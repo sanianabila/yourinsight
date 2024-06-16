@@ -1,10 +1,10 @@
 <?php
 
 session_start();
-$servername = "localhost";
-$username = "root";
-$password = "";
-$dbname = "webpage_db";
+$servername = "sql204.infinityfree.com";
+$username = "if0_36733992";
+$password = "7uHHLNxm0rU";
+$dbname = "if0_36733992_yourinsight";
 $port = 3306;
 
 // Create connection
