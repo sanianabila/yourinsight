@@ -13,3 +13,8 @@ Frontend	HTML, CSS, Bootstrap
 Backend	PHP
 Database	MySQL
 UI Framework	Bootstrap
+
+Access as user: http://yourinsight.infinityfreeapp.com/
+Access as admin: http://yourinsight.infinityfreeapp.com/admin
+email admin: sania@gmail.com
+pass admin: sania123
